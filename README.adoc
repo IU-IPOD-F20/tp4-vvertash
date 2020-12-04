@@ -114,7 +114,7 @@ endif::[]
 - [ ] 2
 - [ ] 3
 - [ ] 4
-- [X] Innopolis
+- [x] Innopolis
 
 //------------------------------------ 
 == {requirements}
